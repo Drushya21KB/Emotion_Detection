@@ -3,6 +3,11 @@
 
 This repository contains the trained model and label file used for detecting facial emotions in real-time on mobile applications. The model is trained using deep learning and converted to TensorFlow Lite for on-device inference.
 
+## Dataset Source
+
+We used the **[MMA Facial Expression Dataset] https://www.kaggle.com/datasets/mahmoudima/mma-facial-expression** available on Kaggle for training.
+
+
 ##  Files
 | File           | Description                                               |
 |----------------|-----------------------------------------------------------|
